@@ -1,10 +1,11 @@
 <archetype-catalog xmlns="http://maven.apache.org/archetype/catalog/1.0.0">
     <archetypes>
         <archetype>
-            <groupId>com.github.christophe-utp</groupId>
-            <artifactId>libtest</artifactId>
+            <groupId>org.example</groupId>
+            <artifactId>untitled2-archetype</artifactId>
             <version>1.0-SNAPSHOT</version>
             <repository>https://christophe-utp.github.io/maven-repo</repository>
         </archetype>
     </archetypes>
 </archetype-catalog>
+
